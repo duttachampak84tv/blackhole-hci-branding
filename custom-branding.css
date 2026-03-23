@@ -1,0 +1,18 @@
+.custom-dark-purple {
+  background-color: #4B0082; /* Dark Purple */
+  color: #FFFFFF; /* White text */
+}
+.custom-dark-purple h1, .custom-dark-purple h2, .custom-dark-purple h3 {
+  color: #FFD700; /* Gold headings */
+}
+.custom-dark-purple p {
+  font-size: 14px;
+  line-height: 1.5;
+}
+.custom-dark-purple a {
+  color: #BA55D3; /* Medium Orchid */
+  text-decoration: none;
+}
+.custom-dark-purple a:hover {
+  text-decoration: underline;
+}
